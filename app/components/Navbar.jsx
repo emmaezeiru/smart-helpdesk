@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Logo from './smart-logo.jpg'
+import Logo from './smarthelp desk.jpg'
 
 export default function Navbar() {
   return (
